@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Demo0\giaiPTBac2\bin\Debug\giaiPTBac2.exe.config
+C:\Users\Admin\source\repos\Demo0\giaiPTBac2\bin\Debug\giaiPTBac2.exe
+C:\Users\Admin\source\repos\Demo0\giaiPTBac2\bin\Debug\giaiPTBac2.pdb
+C:\Users\Admin\source\repos\Demo0\giaiPTBac2\obj\Debug\giaiPTBac2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Demo0\giaiPTBac2\obj\Debug\giaiPTBac2.exe
+C:\Users\Admin\source\repos\Demo0\giaiPTBac2\obj\Debug\giaiPTBac2.pdb
